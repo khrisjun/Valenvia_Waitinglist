@@ -1,4 +1,4 @@
-# Valenvia_Waitinglist
+# Valencia_Waitinglist
 
 Track your Valencia Marathon waiting-list position once per day, keep the full history, and estimate when you may be offered a bib.
 
