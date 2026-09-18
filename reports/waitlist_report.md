@@ -1,12 +1,12 @@
 # Valencia Marathon Waiting List Tracker
 
 **Current position:** 46
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 
 **Start point:** 33000 on 2026-01-04
-**Trend:** ~126.21 places gained per day
-**Estimated bib offer date:** 2026-08-29 (-19 days from last update)
-**Race day:** 2026-12-07 (81 days from last update)
+**Trend:** ~125.04 places gained per day
+**Estimated bib offer date:** 2026-08-29 (-20 days from last update)
+**Race day:** 2026-12-07 (80 days from last update)
 
 ## Position over time
 
@@ -63,3 +63,4 @@
 | 2026-09-15 | 46 |
 | 2026-09-16 | 46 |
 | 2026-09-17 | 46 |
+| 2026-09-18 | 46 |
